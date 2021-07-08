@@ -1,2 +1,2 @@
-# 6th-Sem-project
-Landmark Detection using Mediapipe
+# Landmark Detection using Mediapipe
+6th-Sem-project
