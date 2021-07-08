@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc585703-cdb5-44f2-85ea-2f0523939048" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1unq33aNewsvn2iU3Cj49WxSee3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.VirtualMouse">
+    <configuration name="BasicTracking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Handlandmarkproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/BasicTracking" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HandTrackingModule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Handlandmarkproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HandTrackingModule.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HandTrackingModuleMouse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Handlandmarkproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HandTrackingModuleMouse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="VirtualMouse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Handlandmarkproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VirtualMouse.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="VolumeGestureControl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Handlandmarkproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/VolumeGestureControl.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.VirtualMouse" />
+        <item itemvalue="Python.HandTrackingModuleMouse" />
+        <item itemvalue="Python.VolumeGestureControl" />
+        <item itemvalue="Python.HandTrackingModule" />
+        <item itemvalue="Python.BasicTracking" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc585703-cdb5-44f2-85ea-2f0523939048" name="Default Changelist" comment="" />
+      <created>1625311497559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625311497559</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="155" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1625366428610">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state x="155" y="47" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1462.864@0.0.1462.864" timestamp="1625366428610" />
+    <state x="439" y="194" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1625365950176">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state x="439" y="194" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1462.864@0.0.1462.864" timestamp="1625365950176" />
+    <state x="481" y="167" key="FileChooserDialogImpl" timestamp="1625365676209">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state x="481" y="167" key="FileChooserDialogImpl/0.0.1462.864@0.0.1462.864" timestamp="1625365676209" />
+    <state width="1364" height="155" key="GridCell.Tab.0.bottom" timestamp="1625392933427">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state width="1364" height="155" key="GridCell.Tab.0.bottom/0.0.1462.864@0.0.1462.864" timestamp="1625392933427" />
+    <state width="1364" height="155" key="GridCell.Tab.0.center" timestamp="1625392933427">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state width="1364" height="155" key="GridCell.Tab.0.center/0.0.1462.864@0.0.1462.864" timestamp="1625392933427" />
+    <state width="1364" height="155" key="GridCell.Tab.0.left" timestamp="1625392933427">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state width="1364" height="155" key="GridCell.Tab.0.left/0.0.1462.864@0.0.1462.864" timestamp="1625392933427" />
+    <state width="1364" height="155" key="GridCell.Tab.0.right" timestamp="1625392933427">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state width="1364" height="155" key="GridCell.Tab.0.right/0.0.1462.864@0.0.1462.864" timestamp="1625392933427" />
+    <state x="202" y="34" key="SettingsEditor" timestamp="1625367889650">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state x="202" y="34" key="SettingsEditor/0.0.1462.864@0.0.1462.864" timestamp="1625367889650" />
+    <state x="389" y="216" key="com.intellij.ide.util.TipDialog" timestamp="1625752048150">
+      <screen x="0" y="0" width="1462" height="864" />
+    </state>
+    <state x="389" y="216" key="com.intellij.ide.util.TipDialog/0.0.1462.864@0.0.1462.864" timestamp="1625752048150" />
+  </component>
+</project>
